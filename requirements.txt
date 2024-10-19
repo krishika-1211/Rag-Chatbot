@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+PyPDF2
+passlib
+openai
+pinecone-client
+python-dotenv
+httpx
